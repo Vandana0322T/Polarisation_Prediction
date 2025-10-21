@@ -1,0 +1,9 @@
+{
+  "lang": "spa",
+  "f1_macro": 0.6945852860836279,
+  "precision_macro": 0.6957478005865103,
+  "recall_macro": 0.6949616648411829,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}

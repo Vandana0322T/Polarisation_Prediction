@@ -1,0 +1,9 @@
+{
+  "lang": "amh",
+  "f1_macro": 0.5101986401813092,
+  "precision_macro": 0.7735042735042735,
+  "recall_macro": 0.5387146728610144,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}

@@ -1,0 +1,9 @@
+{
+  "lang": "urd",
+  "f1_macro": 0.6876442085832949,
+  "precision_macro": 0.6865111213024535,
+  "recall_macro": 0.6888714733542319,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}

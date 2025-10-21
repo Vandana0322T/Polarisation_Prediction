@@ -1,0 +1,9 @@
+{
+  "lang": "ita",
+  "f1_macro": 0.5544569993722537,
+  "precision_macro": 0.5674188695465292,
+  "recall_macro": 0.558116269591315,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}
