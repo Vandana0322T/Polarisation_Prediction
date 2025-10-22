@@ -1,13 +1,21 @@
 # Detects polarized text (binary: 0/1) across 9 languages using a clean Hugging Face BERT baseline.
 # Project Structure
 polarization-baseline/
+
 ├─ subtask1/
-│  ├─ train/                
-│  └─ dev/                  
+
+│  ├─ train/
+
+│  └─ dev/ 
+
 ├─ src/
-│  └─ train_bert.py         
-├─ outputs/                 
+
+│  └─ train_bert.py  
+
+├─ outputs/    
+
 ├─ requirements.txt
+
 └─ README.md
 
 Eval = non-overlapping slice of train.
@@ -55,6 +63,7 @@ predictions_dev.csv – columns: id,prediction (for dev)
 split_ids.json – exact train/val IDs used (reproducible)
 
 training_log.txt
+
 **All languages:**
 outputs/summary_metrics.csv – one row per language
 
