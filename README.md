@@ -18,7 +18,7 @@ Training: HF Trainer with standard cross-entropy (num_labels=2).
 Validation: Stratified split from train (val_from_train, default 0.10).
 No overlap with training rows; split ids are saved for reproducibility.
 
-Predictions: Always run on dev/lang.csv. Writes id,prediction.
+Predictions: Always run on dev/lang.csv. Writes id, prediction.
 # Project Structure
 polarization-baseline/
 
