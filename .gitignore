@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Envs
+.venv/
+.env/
+
+# HF / Trainer outputs
+outputs/
+checkpoints/
+runs/
+
+# OS cruft
+.DS_Store
+
+# Archives / large data
+*.zip
+*.tar.gz
