@@ -1,4 +1,4 @@
-# Detects polarized text (binary: 0/1) across 9 languages using a clean Hugging Face BERT baseline.
+# Detects polarized text (binary: 0/1) across 9 languages
 A clean, reproducible Hugging Face baseline for binary polarization detection across 9 languages.
 The code trains per-language BERT classifiers, evaluates on a non-overlapping slice of train, and generates predictions for dev.
 
