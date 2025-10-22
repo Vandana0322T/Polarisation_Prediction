@@ -65,15 +65,6 @@ python -m src.train_bert \
   --epochs 3 --lr 2e-5 --train_bs 64 --eval_bs 8 \
   --val_from_train 0.1 --seed 42
 
-# For each language:
-Train on train/lang.csv using BERT (eng: bert-base-uncased; others: bert-base-multilingual-cased)
-
-Eval on a held-out stratified slice of train (no overlap)
-
-Predict on dev/lang.csv (ids preserved)
-
-Results are saved under outputs/<lang>/.
-
 # Outputs
 **Per language (e.g., outputs/eng/):**
 metrics.json – macro F1 / precision / recall (from held-out train)
