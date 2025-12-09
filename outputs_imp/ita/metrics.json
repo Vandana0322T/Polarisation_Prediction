@@ -1,0 +1,9 @@
+{
+  "lang": "ita",
+  "f1_macro": 0.6028303277480223,
+  "precision_macro": 0.6213248011068835,
+  "recall_macro": 0.6039682833747082,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "dbmdz/bert-base-italian-uncased"
+}

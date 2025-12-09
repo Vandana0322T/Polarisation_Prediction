@@ -1,0 +1,9 @@
+{
+  "lang": "arb",
+  "f1_macro": 0.7304837762764735,
+  "precision_macro": 0.7333754208754208,
+  "recall_macro": 0.7356482629174488,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}

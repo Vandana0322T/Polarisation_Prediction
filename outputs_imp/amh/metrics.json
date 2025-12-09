@@ -1,0 +1,9 @@
+{
+  "lang": "amh",
+  "f1_macro": 0.667624944714728,
+  "precision_macro": 0.707010582010582,
+  "recall_macro": 0.6514711575687185,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "Davlan/afro-xlmr-base"
+}

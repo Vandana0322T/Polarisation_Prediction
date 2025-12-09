@@ -1,0 +1,3 @@
+Lang: amh
+Model: Davlan/afro-xlmr-base
+epochs=3, lr=2e-05, train_bs=8, eval_bs=8, val_from_train=0.1, seed=42

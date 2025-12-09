@@ -1,0 +1,9 @@
+{
+  "lang": "deu",
+  "f1_macro": 0.6823176823176823,
+  "precision_macro": 0.6859744990892531,
+  "recall_macro": 0.6821985168735377,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-german-cased"
+}

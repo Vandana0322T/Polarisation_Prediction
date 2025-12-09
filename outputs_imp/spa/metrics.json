@@ -1,0 +1,9 @@
+{
+  "lang": "spa",
+  "f1_macro": 0.7583059510770354,
+  "precision_macro": 0.7583430699576457,
+  "recall_macro": 0.7583242059145674,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "dccuchile/bert-base-spanish-wwm-cased"
+}

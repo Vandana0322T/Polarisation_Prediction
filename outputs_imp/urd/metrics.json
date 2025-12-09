@@ -1,0 +1,9 @@
+{
+  "lang": "urd",
+  "f1_macro": 0.7240377632534496,
+  "precision_macro": 0.7361904761904762,
+  "recall_macro": 0.7159526297457333,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "ai4bharat/IndicBERTv2-MLM-only"
+}

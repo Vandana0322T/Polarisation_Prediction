@@ -1,0 +1,9 @@
+{
+  "lang": "zho",
+  "f1_macro": 0.8247653985358904,
+  "precision_macro": 0.8247952833278742,
+  "recall_macro": 0.8248165618448637,
+  "used_dev_labels": false,
+  "val_from_train": 0.1,
+  "model_name": "bert-base-multilingual-cased"
+}
